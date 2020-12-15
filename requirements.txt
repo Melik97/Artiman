@@ -1,0 +1,9 @@
+django == 3
+python == 3
+requests
+django-rest_framework
+logger
+telegram
+python-telegram-bot
+opencv-python
+Unidecode
